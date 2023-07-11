@@ -105,7 +105,6 @@ public class TestCrew_Test extends TestBase {
 		litePrice = TestUtil.readFromExcelFile(inputFileName, sheetName, "Lite Price", rowNumber);
 		classicPrice = TestUtil.readFromExcelFile(inputFileName, sheetName, "Classic Price", rowNumber);
 		premiumPrice = TestUtil.readFromExcelFile(inputFileName, sheetName, "Premium Price", rowNumber);
-		System.out.println("Data has been loaded");
 		return;
 	}
 	
