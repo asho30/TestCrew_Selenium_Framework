@@ -8,7 +8,8 @@ Technical requirements:
 • The project implements modular design by using the Page Object Model design pattern.
 • Acceptable design and distribution of the test cases/classes.
 • Externalizing test data “config.properties”.
-• Creating an automated test execution report in AutoReport/index.html.
+• Creating an automated test execution report in test-output/index.html in case of TestNG.
+• Creating a json, xml, & Html reports in the target folder in case of Cucumber.
 • Screenshot has been attached to the report.
 • Response body has been attached to the report (in case of API).
 • ReadMe file describing the project and how to use has been attached.

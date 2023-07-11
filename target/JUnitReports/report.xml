@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="27.889" tests="3" skipped="0" failures="0" errors="0">
+<testcase classname="Validate Subscription Plans Details" name="Validate Subscription Plans Details - Example #1.1" time="9.808">
+<system-out><![CDATA[
+Given the user is on subscribe page.........................................passed
+And has the subscription plans details 1....................................passed
+When changes the country....................................................passed
+Then validate the Price and Currency for each plan..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Validate Subscription Plans Details" name="Validate Subscription Plans Details - Example #1.2" time="9.199">
+<system-out><![CDATA[
+Given the user is on subscribe page.........................................passed
+And has the subscription plans details 2....................................passed
+When changes the country....................................................passed
+Then validate the Price and Currency for each plan..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Validate Subscription Plans Details" name="Validate Subscription Plans Details - Example #1.3" time="8.724">
+<system-out><![CDATA[
+Given the user is on subscribe page.........................................passed
+And has the subscription plans details 3....................................passed
+When changes the country....................................................passed
+Then validate the Price and Currency for each plan..........................passed
+]]></system-out>
+</testcase>
+</testsuite>
